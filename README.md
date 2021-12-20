@@ -3,7 +3,7 @@ A collection of my docker-compose files used to setup self-hosted services on Ra
 
 ---
 
-## List of services hosted
+## List of services hosted (linked to the respective GitHub repos)
 
 * [AdGuard-Home](https://github.com/AdguardTeam/AdGuardHome)
 * [Authelia](https://github.com/authelia/authelia)
